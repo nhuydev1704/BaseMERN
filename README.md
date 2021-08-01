@@ -8,6 +8,7 @@ ______________________________________
 * Install react-beautiful-dnd (Nếu cần éo thả)
 * Install react-number-format (Nếu cần format tiền tệ)
 * Install socket.io-client (Nếu cần chat real-time phía client)
+
 ----------------------------> Server
 * Install socket.io (Nếu cần chat real-time)
 * Install nodemailer (Nếu cần xác thực email)
